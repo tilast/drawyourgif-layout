@@ -198,6 +198,11 @@ footer {
 }
 
 /* Table */
+.table-lab {
+	width: 960px;
+	height: 300px;
+	text-align: center;
+}
 .table-lab, .table-lab tr, .table-lab td {
 	border: 1px solid black;
 }
