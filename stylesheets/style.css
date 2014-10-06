@@ -196,3 +196,8 @@ footer {
 	position: relative;
 	right: 30px;
 }
+
+/* Table */
+.table-lab, .table-lab tr, .table-lab td {
+	border: 1px solid black;
+}
