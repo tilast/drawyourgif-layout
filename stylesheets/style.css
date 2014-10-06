@@ -116,7 +116,7 @@ footer {
 	border: 0;
 	padding: 5px;
 	cursor: pointer;
-	box-sizing: border-btn;
+	box-sizing: border-box;
 }
 
 .btn a {
