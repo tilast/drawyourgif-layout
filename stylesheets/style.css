@@ -191,7 +191,8 @@ footer {
 	text-align: center;
 }
 .landing-go-to-designer {
-	width: 200px;
+	width: 220px;
+	text-align: center;
 	margin: auto;
 	position: relative;
 	right: 30px;
